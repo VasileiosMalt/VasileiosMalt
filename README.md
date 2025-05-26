@@ -40,7 +40,6 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![ Shell ](https://img.shields.io/badge/Shell-89E051?style=for-the-badge&logo=shell&logoColor=white)
 ![ Bash ](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### 🔬 **Analytics**
@@ -54,6 +53,10 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![ Make.com ](https://img.shields.io/badge/Make.com-FF3F00?style=for-the-badge&logo=make&logoColor=white)
+![ n8n ](https://img.shields.io/badge/n8n-00B19D?style=for-the-badge&logo=n8n&logoColor=white)
+![ Zapier ](https://img.shields.io/badge/Zapier-FB4B3A?style=for-the-badge&logo=zapier&logoColor=white)
+![ MCP Connection ](https://img.shields.io/badge/MCP%20Connection-007ACC?style=for-the-badge&logo=microsoft&logoColor=white)
 
 ---
 
@@ -91,8 +94,8 @@
 
 ### 🔬 **Current Research Projects**
 - **🏛️ ImagiDem Project**: ERC-funded research combining computational and qualitative methods
-- **🤖 AI & Ethnography**: Developing reciprocal methodologies for visual political action analysis
-- **📱 Social Media Analysis**: Large-scale Telegram data processing with LLM automation
+- **🤖 AI & Political Communication**: Developing reciprocal methodologies for visual political action analysis
+- **📱 Social Media Analysis for Journalism**: Large-scale Telegram data processing with LLM automation - Application of AI on journalistic needs
 - **🖼️ Computer Vision**: Advancing ethnographically-informed image classification systems
 
 ---
