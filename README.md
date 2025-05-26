@@ -15,26 +15,39 @@
 
 ### 🌟 Research Focus Areas
 
-```
-mindmap
-  root((Computational Social Science))
-    AI & Democracy
-      Visual Political Action
-      Algorithmic Democracy
-      Democratic Innovation
-    Computer Vision
-      Theoretically-informed Classification
-      Enhanced Supervised Learning
-      Object Detection Systems
-    Social Media Analysis
-      Telegram Data Processing
-      LIHKG Forum Scraping
-      Political Communication
-    Methodological Innovation
-      Bridging Ethnography & AI
-      Reciprocal Methodology
-      Visual Recurrence Analysis
-```
+# Computational Social Science
+
+## AI & Democracy
+
+## Visual Political Action
+
+## Algorithmic Democracy
+
+## Democratic Innovation
+
+## Computer Vision
+
+### Theoretically-informed Classification
+
+### Enhanced Supervised Learning
+
+#### Object Detection Systems
+
+## Social Media Analysis
+
+### Telegram Data Processing
+
+### LIHKG Forum Scraping
+
+## Political Communication
+
+## Methodological Innovation
+
+### Bridging Ethnography & AI
+
+### Reciprocal Methodology
+
+### Visual Recurrence Analysis
 
 ---
 
