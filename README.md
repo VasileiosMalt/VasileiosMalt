@@ -1,66 +1,21 @@
-# 🚀 Vasileios Maltezos
+# Vasileios Maltezos
 ### *PhD Computational Social Scientist | Data Engineer-Scientist | AI & Automations*
 
 ---
 
 ## 🧬 About Me
 
-> *"At the intersection of computational social science and AI innovation, I develop methodologies that bridge ethnography and artificial intelligence to understand visual political action and democratic processes."*
-
 🎓 **PhD Candidate** in Computational Social Science
 🔬 **Head of Computational Research** @ ImagiDem Project (ERC HORIZON Project)  
-👨‍🏫 **University Instructor** | Python, R, SPSS Statistics  
-🏆 **Software Co-Inventor** | ImagiDetect AI Classification System  
+👨‍🏫 **University Instructor** | Python, R, SPSS
+🏆 **Software Co-Inventor** | ImagiDetect AI Classification System  (Copyrights held by the University of Helsinki)
 🌍 **Multilingual Researcher** | 6 Languages (Greek, English, Finnish, Russian, Spanish, French)
-
-### 🌟 Research Focus Areas
-
-# Computational Social Science
-
-## AI & Democracy
-
-## Visual Political Action
-
-## Algorithmic Democracy
-
-## Democratic Innovation
-
-## Computer Vision
-
-### Theoretically-informed Classification
-
-### Enhanced Supervised Learning
-
-#### Object Detection Systems
-
-## Social Media Analysis
-
-### Telegram Data Processing
-
-### LIHKG Forum Scraping
-
-## Political Communication
-
-## Methodological Innovation
-
-### Bridging Ethnography & AI
-
-### Reciprocal Methodology
-
-### Visual Recurrence Analysis
 
 ---
 
-## 🏆 Major Achievements & Publications
-
-### 📚 **Published Academic Work**
-- **Maltezos, V.**, Luhtakallio, E., & Meriluoto, T. (2024). *"Bridging ethnography and AI: a reciprocal methodology for studying visual political action"*. **International Journal of Social Research Methodology**. [DOI: 10.1080/13645579.2024.2330057](https://doi.org/10.1080/13645579.2024.2330057)
-
-- Jacobs, K., Cheung, D., **Maltezos, V.**, & Wong, C. (2023). *"The Pepe the Frog Image-Meme in Hong Kong: Visual Recurrences and Gender Fluidity on the LIHKG Forum"*. **Journal of Digital Social Research**, 4(4), 130-150. [DOI: 10.33621/jdsr.v4i4.131](https://doi.org/10.33621/jdsr.v4i4.131)
-
-### 🏅 **Awards & Recognition**
+## 🏅 **Awards & Recognition**
 - **🎯 Co-Inventor & Copyright Holder**: ImagiDetect software - University of Helsinki Invention Disclosure accepted
-- **🎙️ Research Impact**: Featured in "Spaces of Democracy" podcast series
+- **🎙️ Research Impact**: Featured in "Spaces of Democracy" podcast series & 3 Computational Social Science Peer-Reviewed Publications
 - **🎤 Public Engagement**: Live research presentation at University of Helsinki Tiedekulma event
 
 ---
@@ -121,9 +76,7 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-### 🔥 Contribution Streak
+## 🔥 Contribution Streak
 [![GitHub Streak](https://streak-stats.demolab.com/?user=VasileiosMalt&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
@@ -134,7 +87,7 @@
 - **🎧 Podcast**: *"How could democracy benefit from algorithms?"* - Spaces of Democracy series
   - [Listen on Apple Podcasts](https://podcasts.apple.com/fi/podcast/how-could-democracy-benefit-from-algorithms/id1747286772?i=1000657740217&l=fi)
 - **🎤 Live Event**: *"Poliittisen näkymisen vallankumous: Miten kuvat muuttavat demokratiaa?"*
-  - University of Helsinki Tiedekulma event
+  - Tiedekulma event
 
 ### 🔬 **Current Research Projects**
 - **🏛️ ImagiDem Project**: ERC-funded research combining computational and qualitative methods
@@ -146,11 +99,3 @@
 
 ## 🌐 Connect & Collaborate
 [![Email](https://img.shields.io/badge/📧_Email-vasileios.maltezos@helsinki.fi-red?style=for-the-badge)](mailto:vasileios.maltezos@helsinki.fi)
-
-### 💬 **Open to Collaborate On:**
-- 🤖 AI & Computational Social Science Research
-- 🔍 Computer Vision & Image Classification Projects
-- 📊 Social Media Data Analysis & Political Communication Methods
-- 🏛️ Democratic Innovation & Algorithmic Governance
-- 👨‍🏫 Teaching & Methodology Development
-- 🌍 Multilingual & Cross-Cultural Research
