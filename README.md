@@ -27,8 +27,8 @@
 |-----------|--------------|-----------|---------------|
 | **🔍 ImagiDetect** | AI Classification + Object Detection | Ethnographically-informed Image Analysis | [Public Repo](https://github.com/VasileiosMalt/ImagiDetect) |
 | **📰 TeleFlash** | LLM + Slack Integration | Automated News Summarization | [Public Repo](https://github.com/VasileiosMalt/TeleFlash) |
-| **🔍 OSINT Tools** | Python + PowerShell | Phone Recognition & Document Analysis | Private |
-| **🕷️ Web Scrapers** | Multi-platform Automation | Historical Archives + Social Media Data | Private |
+| **🔍 OSINT Tools** | Python + PowerShell | Phone Recognition & Document Analysis | [Public Repo](https://github.com/VasileiosMalt/TelOsint) |
+| **🕷️ Web Scrapers** | Multi-platform Automation | Historical Archives + Social Media Data | [Public Repo](https://github.com/VasileiosMalt/ImagiDem_scrapers) |
 
 ---
 
