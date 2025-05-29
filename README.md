@@ -1,9 +1,9 @@
-# Vasileios Maltezos
-### *PhD Computational Social Scientist | Data Engineer-Scientist | AI & Automations*
+# Vasilis Maltezos
+### *PhD Computational Social Scientist | AI Engineer | Data Scientist*
 
 ---
 
-## 🧬 About Me
+## Background
 
 🎓 **PhD Candidate** in Computational Social Science
 🔬 **Head of Computational Research** @ ImagiDem Project (ERC HORIZON Project)  
@@ -32,15 +32,15 @@
 
 ---
 
-## 🛠️ Technology Stack
+## 🛠️ Technology Stack Knowledge
 
 ### 🧠 **Core Programming & AI**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![ Bash ](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![ Bash ](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### 🔬 **Analytics**
 ![SPSS](https://img.shields.io/badge/SPSS-052FAD?style=for-the-badge&logoColor=white)
