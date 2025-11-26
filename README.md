@@ -32,11 +32,11 @@
 
 ### *Published Chrome Extensions*
 
-| 🧩 Extension | 🌟 Description | 🔗 Repository |
-|--------------|---------------|---------------|
-| **WebPage-Content-Extractor-AI-Enhanced** | Extract webpage content as clean TXT, with AI-powered summaries and analyses (OpenAI, Gemini, GitHub Models, etc.) | [Public Repo](https://github.com/VasileiosMalt/WebPage-Content-Extractor-AI-Enhanced) |
-| **CopyTab-Ultra** | Manage, copy, and export lists of URLs from open Chrome tabs (left, right, or all) | [Public Repo](https://github.com/VasileiosMalt/CopyTab-Ultra) |
-| **FactForgeAI** | Chrome extension (details not provided above) | [Public Repo](https://github.com/VasileiosMalt/FactForgeAI) | 
+| 🧩 Extension | 🌟 Description | 🔗 Repository | 🔗 Link to Store |
+|--------------|---------------|---------------|----|
+| **WebPage-Content-Extractor-AI-Enhanced** | Extract webpage content as clean TXT, with AI-powered summaries and analyses (OpenAI, Gemini, GitHub Models, etc.) | [Public Repo](https://github.com/VasileiosMalt/WebPage-Content-Extractor-AI-Enhanced) | [Chrome Store](https://chromewebstore.google.com/detail/webpage-content-extractor/iblmjahdhifgdilhcdoknbonfdndnljj) |
+| **CopyTab-Ultra** | Manage, copy, and export lists of URLs from open Chrome tabs (left, right, or all) | [Public Repo](https://github.com/VasileiosMalt/CopyTab-Ultra) | [Chrome Store](https://chromewebstore.google.com/detail/copytab-ultra/cakdfoedldajiaflbkffnpnlkekaoola) |
+| **FactForgeAI** | Chrome extension (details not provided above) | [Public Repo](https://github.com/VasileiosMalt/FactForgeAI) |  [Chrome Store](https://chromewebstore.google.com/detail/factforge-ai/nodhaijnpopoggmphindpkocahblcnbo) |
 
 ---
 
