@@ -30,6 +30,14 @@
 | **🔍 OSINT Tools** | Python + PowerShell | Phone Recognition & Document Analysis | [Public Repo](https://github.com/VasileiosMalt/TelOsint) |
 | **🕷️ Web Scrapers** | Multi-platform Automation | Historical Archives + Social Media Data | [Public Repo](https://github.com/VasileiosMalt/ImagiDem_scrapers) |
 
+### *Published Chrome Extensions*
+
+| 🧩 Extension | 🌟 Description | 🔗 Repository |
+|--------------|---------------|---------------|
+| **WebPage-Content-Extractor-AI-Enhanced** | Extract webpage content as clean TXT, with AI-powered summaries and analyses (OpenAI, Gemini, GitHub Models, etc.) | [Public Repo](https://github.com/VasileiosMalt/WebPage-Content-Extractor-AI-Enhanced) |
+| **CopyTab-Ultra** | Manage, copy, and export lists of URLs from open Chrome tabs (left, right, or all) | [Public Repo](https://github.com/VasileiosMalt/CopyTab-Ultra) |
+| **FactForgeAI** | Chrome extension (details not provided above) | [Public Repo](https://github.com/VasileiosMalt/FactForgeAI) | 
+
 ---
 
 ## 🛠️ Technology Stack Knowledge
