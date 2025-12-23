@@ -1,5 +1,5 @@
 # Vasilis Maltezos
-### *PhD Computational Social Scientist | AI Engineer | Data Scientist*
+### *Data Scientist | AI Specialist | PhD Computational Social Scientist*
 
 ---
 
