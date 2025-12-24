@@ -5,11 +5,11 @@
 
 ## Background
 
-🎓 **PhD Candidate** in Computational Social Science
-🔬 **Head of Computational Research** @ ImagiDem Project (ERC HORIZON Project)  
-👨‍🏫 **University Instructor** | Python, R, SPSS
-🏆 **Software Co-Inventor** | ImagiDetect AI Classification System  (Copyrights held by the University of Helsinki)
-🌍 **Multilingual Researcher** | 6 Languages (Greek, English, Finnish, Russian, Spanish, French)
+- **🎓 PhD Candidate** in Computational Social Science
+- **🔬 Head of Computational Research** @ ImagiDem Project (ERC HORIZON Project)  
+- **👨‍🏫 University Instructor** | Python, R, SPSS
+- **🏆 Software Co-Inventor** | ImagiDetect AI Classification System  (Copyrights held by the University of Helsinki)
+- **🌍 Multilingual** | 6 Languages (Greek, English, Finnish, Russian, Spanish, French)
 
 ---
 
