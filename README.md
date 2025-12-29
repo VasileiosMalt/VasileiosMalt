@@ -86,11 +86,6 @@
 
 ---
 
-## 🔥 Contribution Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=VasileiosMalt&theme=tokyonight)](https://git.io/streak-stats)
-
----
-
 ## 🚀 Research Impact & Outreach
 
 ### 🎙️ **Media & Public Engagement**
