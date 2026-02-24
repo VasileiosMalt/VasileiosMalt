@@ -39,8 +39,7 @@
 
 ### *AI-oriented XFCE-based Linux Desktop Distribution*
 
-Built a Linux distro from Debian bookworm 12 that is optimized and equiped for the smooth use of agentic AI while retaing a sufficient UI for satifactory but also lightweight user GUI interaction
-[Open ClawOS](https://github.com/VasileiosMalt/CrabWithClawOS)
+🦀 [Open ClawOS](https://github.com/VasileiosMalt/CrabWithClawOS)
 
 ---
 
