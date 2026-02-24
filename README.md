@@ -37,6 +37,11 @@
 | **CopyTab-Ultra** | Manage, copy, and export lists of URLs from open Chrome tabs (left, right, or all) | [Public Repo](https://github.com/VasileiosMalt/CopyTab-Ultra) | [Link to Chrome Store](https://chromewebstore.google.com/detail/copytab-ultra/cakdfoedldajiaflbkffnpnlkekaoola) |
 | **FactForgeAI** | Chrome extension (details not provided above) | [Public Repo](https://github.com/VasileiosMalt/FactForgeAI) |  [Link to Chrome Store](https://chromewebstore.google.com/detail/factforge-ai/nodhaijnpopoggmphindpkocahblcnbo) |
 
+### *AI-oriented XFCE-based Linux Desktop Distribution*
+
+Built a Linux distro from Debian bookworm 12 that is optimized and equiped for the smooth use of agentic AI while retaing a sufficient UI for satifactory but also lightweight user GUI interaction
+[Open ClawOS](https://github.com/VasileiosMalt/CrabWithClawOS)
+
 ---
 
 ## 🛠️ Technology Stack Knowledge
@@ -53,7 +58,6 @@
 ![SPSS](https://img.shields.io/badge/SPSS-052FAD?style=for-the-badge&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
 
 ### 🚀 **Infrastructure & Tools**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
