@@ -6,7 +6,7 @@
 ## Background
 
 - **🎓 PhD** in Computational Social Science / Applied computer vision for social science research
-- **🔬 Head of Computational Research** during the ImagiDem Project (ERC HORIZON Project)  
+- **🔬 Leading Researcher of Computational Methodology** during the [ImagiDem Project](https://cordis.europa.eu/project/id/804024/results) (ERC HORIZON Project)  
 - **👨‍🏫 University Instructor** | in Python, R, SPSS
 - **🏆 Software Co-Inventor** | ImagiDetect AI Classification System  (Copyrights held by the University of Helsinki)
 
