@@ -79,14 +79,14 @@
 - **🎓 MA** Communication & Media - Political Communication | University of Athens
 
 ### 👨‍🏫 **Teaching Experience**
-- **🐍 Computational Thinking, Programming and Social Sciences** | University of Helsinki *(2024)*
+- **🐍 Computational Thinking, Programming and Social Sciences** | University of Helsinki
   - Python and R code exercises for data analysis
-- **📊 Quantitative Research Skills** | University of Helsinki *(2022-2023)*
+- **📊 Quantitative Research Skills** | University of Helsinki
   - Statistics for social science using SPSS software
 
 ### 📜 **Additional Certifications**
-- **🐧 Linux Shell Scripting** | Aalto University Scientific Computing *(2022)*
-- **💻 Computer & Network Technician** EQF Level 4 - ISO/IEC 17024 *(2017)*
+- **🐧 Linux Shell Scripting** | Aalto University Scientific Computing 
+- **💻 Computer & Network Technician** EQF Level 4 - ISO/IEC 17024 
 
 ---
 
