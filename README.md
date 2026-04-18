@@ -28,6 +28,7 @@
 | **📰 TeleFlash** | LLM + Slack Integration | Automated News Summarization | [Public Repo](https://github.com/VasileiosMalt/TeleFlash) |
 | **🔍 OSINT Tools** | Python + PowerShell | Phone Recognition & Document Analysis | [Public Repo](https://github.com/VasileiosMalt/TelOsint) |
 | **🕷️ Web Scrapers** | Multi-platform Automation | Historical Archives + Social Media Data | [Public Repo](https://github.com/VasileiosMalt/ImagiDem_scrapers) |
+| **🧑🏻‍💻 Developer-In-The-Loop** | HITL on-the-fly Interface for Developers | Enable easy parameter toggling across any codebase | [Public Repo](https://github.com/VasileiosMalt/DITL) |
 
 ### *Published Chrome Extensions*
 
