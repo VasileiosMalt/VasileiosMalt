@@ -43,6 +43,10 @@
 
 🦀 [Open ClawOS](https://github.com/VasileiosMalt/CrabWithClawOS)
 
+### *Agent Skills*
+
+[Agent Skill specialised in Logical Fallacy detection](https://github.com/VasileiosMalt/logical-fallacy-detector-agent-skill/tree/main)
+
 ---
 
 ## 🛠️ Technology Stack Knowledge
