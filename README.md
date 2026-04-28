@@ -30,6 +30,10 @@
 | **🕷️ Web Scrapers** | Multi-platform Automation | Historical Archives + Social Media Data | [Public Repo](https://github.com/VasileiosMalt/ImagiDem_scrapers) |
 | **🧑🏻‍💻 Developer-In-The-Loop** | HITL on-the-fly Interface for Developers | Enables AI-enhanced and easy parameter toggling across any codebase | [Public Repo](https://github.com/VasileiosMalt/DITL) |
 
+### *Agent Skills*
+
+💼 [Agent Skill specialised in Logical Fallacy detection](https://github.com/VasileiosMalt/logical-fallacy-detector-agent-skill/tree/main)
+
 ### *Published Chrome Extensions*
 
 | 🧩 Extension | 🌟 Description | 🔗 Repository | 🔗 Link to Store |
@@ -42,10 +46,6 @@
 ### *AI-oriented XFCE-based Linux Desktop Distribution*
 
 🦀 [Open ClawOS](https://github.com/VasileiosMalt/CrabWithClawOS)
-
-### *Agent Skills*
-
-[Agent Skill specialised in Logical Fallacy detection](https://github.com/VasileiosMalt/logical-fallacy-detector-agent-skill/tree/main)
 
 ---
 
