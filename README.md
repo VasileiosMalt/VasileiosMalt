@@ -23,18 +23,11 @@
 
 | 🚀 Project | 💡 Description | 📈 Impact | 🔗 Links |
 |-----------|---------------|-----------|----------|
-| **🧑🏻‍💻 Developer-In-The-Loop** | Human-in-the-loop interface enabling on-the-fly parameter adjustments | Easy parameter toggling across any codebase | [Repository](https://github.com/VasileiosMalt/DITL) |
+| **🧑🏻‍💻 DITL (Developer-In-The-Loop)** | Human-in-the-loop interface enabling on-the-fly parameter adjustments | Easy parameter toggling across any codebase | [Repository](https://github.com/VasileiosMalt/DITL) |
 | **📰 TeleFlash** | LLM-powered Slack bot in Python for intelligent news aggregation | Automated news summarization and delivery | [Repository](https://github.com/VasileiosMalt/TeleFlash) |
 | **🧠 Logical Fallacy Detector (Agent Skill)** | Agent skill specialized in identifying logical fallacies | Enhanced critical thinking and argument analysis | [Repository](https://github.com/VasileiosMalt/logical-fallacy-detector-agent-skill/tree/main) |
 
-## 💻 **Important Software Projects**
-
-
-| 🚀 Project | 🔥 Technology | 📈 Impact | 🔗 Repository |
-|-----------|--------------|-----------|---------------|
-| **🔍 ImagiDetect** | Supervised Classification + Object Detection | Ethnographically-informed Image Analysis | [Public Repo](https://github.com/VasileiosMalt/ImagiDetect) |
-| **🔍 OSINT Tools** | Python + PowerShell | Phone Recognition & Document Analysis | [Public Repo](https://github.com/VasileiosMalt/TelOsint) |
-| **🕷️ Web Scrapers** | Multi-platform Automation | Historical Archives + Social Media Data | [Public Repo](https://github.com/VasileiosMalt/ImagiDem_scrapers) |
+> **Note:** Three of the Chrome extensions below include integrated LLM-based capabilities.
 
 ### *Published Chrome Extensions*
 
@@ -44,6 +37,15 @@
 | **CopyTab-Ultra** | Manage, copy, and export lists of URLs from open Chrome tabs (left, right, or all) | [Public Repo](https://github.com/VasileiosMalt/CopyTab-Ultra) | [Link to Chrome Store](https://chromewebstore.google.com/detail/copytab-ultra/cakdfoedldajiaflbkffnpnlkekaoola) |
 | **FactForgeAI** | Fact-check Chrome extension | [Public Repo](https://github.com/VasileiosMalt/FactForgeAI) |  [Link to Chrome Store](https://chromewebstore.google.com/detail/factforge-ai/nodhaijnpopoggmphindpkocahblcnbo) |
 | **Finnish Wiktionary + LLM Verb Analyzer** | Analyze Finnish words with Wiktionary (FI) and optional LLM fallback | [Public Repo](https://github.com/VasileiosMalt/finnish-wiktionary-llm-analyzer/) |  [Link to Chrome Store](https://chromewebstore.google.com/detail/finnish-wiktionary-+-llm/febiphimcjnalbijoknboacgijgbocba) |
+
+## 💻 **Important Software Projects**
+
+| 🚀 Project | 🔥 Technology | 📈 Impact | 🔗 Repository |
+|-----------|--------------|-----------|---------------|
+| **🔍 ImagiDetect** | Supervised Classification + Object Detection | Ethnographically-informed Image Analysis | [Public Repo](https://github.com/VasileiosMalt/ImagiDetect) |
+| **🔍 OSINT Tools** | Python + PowerShell | Phone Recognition & Document Analysis | [Public Repo](https://github.com/VasileiosMalt/TelOsint) |
+| **🕷️ Web Scrapers** | Multi-platform Automation | Historical Archives + Social Media Data | [Public Repo](https://github.com/VasileiosMalt/ImagiDem_scrapers) |
+
 
 ### *AI-oriented XFCE-based Linux Desktop Distribution*
 
