@@ -19,20 +19,22 @@
 
 ---
 
+## LLM-AI related Projects
+
+| 🚀 Project | 💡 Description | 📈 Impact | 🔗 Links |
+|-----------|---------------|-----------|----------|
+| **🧑🏻‍💻 Developer-In-The-Loop** | Human-in-the-loop interface enabling on-the-fly parameter adjustments | Easy parameter toggling across any codebase | [Repository](https://github.com/VasileiosMalt/DITL) |
+| **📰 TeleFlash** | LLM-powered Slack bot in Python for intelligent news aggregation | Automated news summarization and delivery | [Repository](https://github.com/VasileiosMalt/TeleFlash) |
+| **🧠 Logical Fallacy Detector (Agent Skill)** | Agent skill specialized in identifying logical fallacies | Enhanced critical thinking and argument analysis | [Repository](https://github.com/VasileiosMalt/logical-fallacy-detector-agent-skill/tree/main) |
+
 ## 💻 **Important Software Projects**
 
 
 | 🚀 Project | 🔥 Technology | 📈 Impact | 🔗 Repository |
 |-----------|--------------|-----------|---------------|
-| **🔍 ImagiDetect** | AI Classification + Object Detection | Ethnographically-informed Image Analysis | [Public Repo](https://github.com/VasileiosMalt/ImagiDetect) |
-| **📰 TeleFlash** | LLM + Slack Integration | Automated News Summarization | [Public Repo](https://github.com/VasileiosMalt/TeleFlash) |
+| **🔍 ImagiDetect** | Supervised Classification + Object Detection | Ethnographically-informed Image Analysis | [Public Repo](https://github.com/VasileiosMalt/ImagiDetect) |
 | **🔍 OSINT Tools** | Python + PowerShell | Phone Recognition & Document Analysis | [Public Repo](https://github.com/VasileiosMalt/TelOsint) |
 | **🕷️ Web Scrapers** | Multi-platform Automation | Historical Archives + Social Media Data | [Public Repo](https://github.com/VasileiosMalt/ImagiDem_scrapers) |
-| **🧑🏻‍💻 Developer-In-The-Loop** | HITL on-the-fly Interface for Developers | Enables AI-enhanced and easy parameter toggling across any codebase | [Public Repo](https://github.com/VasileiosMalt/DITL) |
-
-### *Agent Skills*
-
-💼 [Agent Skill specialised in Logical Fallacy detection](https://github.com/VasileiosMalt/logical-fallacy-detector-agent-skill/tree/main)
 
 ### *Published Chrome Extensions*
 
