@@ -5,7 +5,8 @@
 
 ## Background
 
-- **🎓 PhD** in Computational Social Science / Applied computer vision for social science research
+- **🎓 PhD** in Computational Social Science / Applied computer vision for social science research  
+    ➡️ [Code Implementation](https://github.com/VasileiosMalt/HIVD-A-Framework-for-efficient-image-categorization-for-social-research) of the Interdisciplinary Methodological Framework that was developed during my research.
 - **🔬 Leading Researcher of Computational Methodology** during the [ImagiDem Project](https://cordis.europa.eu/project/id/804024/results) (ERC HORIZON Project)  
 - **👨‍🏫 University Instructor** | in Python, R, SPSS
 - **🏆 Software Co-Inventor** | ImagiDetect AI Classification System  (Copyrights held by the University of Helsinki)
