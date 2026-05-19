@@ -26,7 +26,13 @@
 |-----------|---------------|-----------|----------|
 | **🧑🏻‍💻 DITL (Developer-In-The-Loop)** | Human-in-the-loop interface enabling on-the-fly parameter adjustments | Easy parameter toggling across any codebase | [Repository](https://github.com/VasileiosMalt/DITL) |
 | **📰 TeleFlash** | LLM-powered Slack bot in Python for intelligent news aggregation | Automated news summarization and delivery | [Repository](https://github.com/VasileiosMalt/TeleFlash) |
+
+## Agentic AI Skill Projects
+
+ 🚀 Project | 💡 Description | 📈 Impact | 🔗 Links |
+|-----------|---------------|-----------|----------|
 | **🧠 Logical Fallacy Detector (Agent Skill)** | Agent skill specialized in identifying logical fallacies | Enhanced critical thinking and argument analysis | [Repository](https://github.com/VasileiosMalt/logical-fallacy-detector-agent-skill/tree/main) |
+| **🕵️ Investigation Skill – Poirot (Agent Skill)** | Agent skill for structured investigation and evidence gathering | Guides users through hypothesis building, clue collection, and reasoning chains for complex problems | [Repository](https://github.com/VasileiosMalt/investigation-skill-poirot) |
 
 > **Note:** Three of the Chrome extensions below include integrated LLM-based capabilities.
 
