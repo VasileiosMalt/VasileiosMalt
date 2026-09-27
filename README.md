@@ -119,8 +119,3 @@
 - **🤖 AI & Political Communication**: Developing reciprocal methodologies for visual political action analysis
 - **📱 Social Media Analysis for Journalism**: Large-scale Telegram data processing with LLM automation - Application of AI on journalistic needs
 - **🖼️ Computer Vision**: Advancing ethnographically-informed image classification systems
-
----
-
-## 🌐 Connect & Collaborate
-[![Email](https://img.shields.io/badge/📧_Email-vasileios.maltezos@helsinki.fi-red?style=for-the-badge)](mailto:vasileios.maltezos@helsinki.fi)
